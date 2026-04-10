@@ -11,4 +11,9 @@ Active members:
 
 ## Open source at CelerSMS
 
-We have multiple open-source projects. Our collaborators are contributing to the **Free Software Foundation**, among other oragizations.
+We have multiple open-source projects, for example:
+* **[AT Emulator](https://www.celersms.com/at-emulator.htm)**: Emulate a communication device, like a modem, featuring the AT command set.
+* **[CelerCOM](https://www.celersms.com/CelerCOM.htm)**, a minimalistic Java library to interact with external devices over COM ports, like USB or virtual COM.
+* **[CelerXML](https://www.celersms.com/CelerXML.htm)**, a lightweight Java library implementing the standard XML parsers: SAX, SAX2 and StAX.
+
+Our collaborators are contributing to the **Free Software Foundation**, among other oragizations.
